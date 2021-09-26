@@ -3,12 +3,13 @@
 //mod dtypes;
 //mod tuples;
 //mod arrays;
-mod vectors;
+//mod vectors;
+mod conditionals;
 fn main() {
     //vars::run();
     //dtypes::run();
     //tuples::run();
     //arrays::run();
-    vectors::run();
-
+    //vectors::run();
+    conditionals::run();
 }
