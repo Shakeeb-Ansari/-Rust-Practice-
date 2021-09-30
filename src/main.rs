@@ -7,6 +7,7 @@
 //mod conditionals;
 //mod loops;
 //mod functions;
+mod structs;
 fn main() {
     //vars::run();
     //dtypes::run();
@@ -16,4 +17,5 @@ fn main() {
     //conditionals::run();
     //loops::run();
     //functions::run();
+    structs::run();
 }
