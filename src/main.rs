@@ -8,7 +8,8 @@
 //mod loops;
 //mod functions;
 //mod structs;
-mod methods;
+//mod methods;
+mod associated_functions;
 fn main() {
     //vars::run();
     //dtypes::run();
@@ -19,5 +20,6 @@ fn main() {
     //loops::run();
     //functions::run();
     //structs::run();
-    methods::run();
+    //methods::run();
+    associated_functions::run();
 }
