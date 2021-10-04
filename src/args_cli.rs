@@ -8,5 +8,5 @@ pub fn run() {
     let y = &arg[2];    // So the indexes are taken after the 0th one
 
     println!("Launching: {}", x);
-    println!("and {}", y);
+    println!("and {}", y);    // the code is run as: cargo run Steam GTAV.exe
 }
