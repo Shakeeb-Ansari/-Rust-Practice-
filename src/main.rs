@@ -10,7 +10,8 @@
 //mod structs;
 //mod methods;
 //mod associated_functions;
-mod enums;
+//mod enums;
+mod args_cli;
 fn main() {
     //vars::run();
     //dtypes::run();
@@ -23,5 +24,6 @@ fn main() {
     //structs::run();
     //methods::run();
     //associated_functions::run();
-    enums::run();
+    //enums::run();
+    args_cli::run();
 }
