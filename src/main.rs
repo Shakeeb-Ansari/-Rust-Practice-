@@ -11,7 +11,8 @@
 //mod methods;
 //mod associated_functions;
 //mod enums;
-mod args_cli;
+//mod args_cli;
+mod closures;
 fn main() {
     //vars::run();
     //dtypes::run();
@@ -25,5 +26,6 @@ fn main() {
     //methods::run();
     //associated_functions::run();
     //enums::run();
-    args_cli::run();
+    //args_cli::run();
+    closures::run();
 }
