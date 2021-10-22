@@ -1,4 +1,5 @@
 #![allow(non_snake_case)]
+
 //mod vars;
 //mod dtypes;
 //mod tuples;
@@ -9,11 +10,16 @@
 //mod functions;
 //mod structs;
 //mod methods;
-//mod associated_functions;
+//mod associated_functions
 //mod enums;
+//mod structs;
 //mod args_cli;
-mod closures;
+//mod closures;
+mod hmaps;
+
+
 fn main() {
+
     //vars::run();
     //dtypes::run();
     //tuples::run();
@@ -27,5 +33,11 @@ fn main() {
     //associated_functions::run();
     //enums::run();
     //args_cli::run();
-    closures::run();
+    //closures::run();
+    hmaps::run();
+
+
+
+    
+    
 }
