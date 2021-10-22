@@ -15,7 +15,8 @@
 //mod structs;
 //mod args_cli;
 //mod closures;
-mod hmaps;
+//mod hmaps;
+mod pmatching;
 
 
 fn main() {
@@ -34,8 +35,8 @@ fn main() {
     //enums::run();
     //args_cli::run();
     //closures::run();
-    hmaps::run();
-
+    //hmaps::run();
+    pmatching::run();
 
 
     
