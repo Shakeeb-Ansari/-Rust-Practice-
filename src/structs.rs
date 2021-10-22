@@ -1,7 +1,7 @@
 struct Gpu {            // Traditional Struct
-    vendor: String,
-    vram: String,
-    bits: u32,
+    pub vendor: String,
+    pub vram: String,
+    pub bits: u32,
 }
 
 struct Processor (String, f32);      // Tuple Struct
