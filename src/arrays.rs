@@ -1,5 +1,5 @@
 pub fn run() {
-    let mut arr: [i8;6]=[10,11,12,13,14,15];
+    let mut arr =[10u8,11,12,13,14,15];
     println!("{:?}",arr);
 
     println!("Value at 3rd index is {}", arr[3]);  // Printing a specific i.e 3rd index only
